@@ -81,4 +81,5 @@ The odds show that if you are a woman and you take the treatment, you are 1.54 t
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-With this date we can come to the conclusion that the preventative aids drug, triUmpsal, does not appear to be effective in preventing aids in women. In the Fisher's exact test, we received a p-value of .000007686 which is less than 0.05, there we reject the null hypothesis. 
+With this data, we can come to the conclusion that the preventative aids drug, triUmpsal, does not appear to be effective in preventing aids in women. In the Fisher's exact test, we received a p-value of .000007686 which is less than 0.05, there we reject the null hypothesis. The odds show that women who receive the treatment are 1.54 times more than likely to contract aids, not prevent it. 
+
